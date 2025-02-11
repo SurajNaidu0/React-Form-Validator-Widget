@@ -1,9 +1,14 @@
 # Modern Form Components
 v1.0.1 Demo -<br/>
-https://react-form-validator-widget.vercel.app/
+https://react-form-validator-widget.vercel.app/<br/>
+https://www.npmjs.com/package/@surajnaidu/modern-form-components/v/1.0.1?activeTab=code
 
 v2.0.0 Demo -<br/>
-https://react-form-validator-widget-3kpl.vercel.app/
+https://react-form-validator-widget-3kpl.vercel.app/<br/>
+https://www.npmjs.com/package/@surajnaidu/modern-form-components/v/2.0.0?activeTab=code
+
+<br/>
+Config of v1 and v2 are backward compatible.
 ## **Installation**
 
 ```sh
